@@ -1,0 +1,1 @@
+This project showcases how to control a servo motor's rotation using an Arduino microcontroller. It provides a simple setup for precise angle control, making it ideal for robotics and embedded systems applications.
